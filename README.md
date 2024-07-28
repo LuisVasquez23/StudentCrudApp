@@ -1,4 +1,4 @@
-# MyApi - Student Management API
+# StudentCrudApp - Student Web API
 
 ## Overview
 
